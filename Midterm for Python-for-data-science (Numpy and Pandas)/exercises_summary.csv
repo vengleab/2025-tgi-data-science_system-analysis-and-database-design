@@ -1,0 +1,49 @@
+No,DatasetName,TaskNumber,Description
+1,Football,Exercise 1,Display all the attributes of the dataset.
+2,Football,Exercise 2,Display the "Team" and "Goals" column.
+3,Football,Exercise 3,Display all the countries which joined the competition. How many countries competed in the competition?
+4,Football,Exercise 4,"Select the ""Shots on target"", ""Shots off target"" and ""Shooting Accuracy"" columns and assign these columns to the new dataframe ""Shooting Information"". Sort the list by the number of shots on target."
+5,Football,Exercise 5,Display the first 5 columns and assign them into a new dataframe called "First_Five".
+6,Football,Exercise 6,Display all columns except the last 4 columns.
+7,Football,Exercise 7,Sort the list of countries by the number of fouls won and then the number of fouls conceded.
+8,Football,Exercise 8,Find the mean of Players Used in a team.
+9,Football,Exercise 9,Display the list of team(s) which score(s) more than 10 goals.
+10,Football,Exercise 10,Display the countries which begins with letter "P"
+11,Football,Exercise 11,"Display the ""Shots on target"", ""Shots off target"" and ""Shooting Accuracy"" from Portugal, Germany, Sweden and England."
+12,Ecommerce,Task 1,Check first 5 rows of the dataset
+13,Ecommerce,Task 2,Check last 5 rows of the dataset
+14,Ecommerce,Task 3,Check type of the dataset
+15,Ecommerce,Task 4,Check null values in the dataset
+16,Ecommerce,Question 5,How many rows and columns are there in our Dataset?
+17,Ecommerce,Question 6,Highest and Lowest Purchase Prices.
+18,Ecommerce,Question 7,Average Purchase Price
+19,Ecommerce,Question 8,How many people have French 'fr' as their Language?
+20,Ecommerce,Question 9a,How many languages people have in total
+21,Ecommerce,Question 9b,Job Title Contains Engineer or engineer
+22,Ecommerce,Task 10,How many number of people have job as manager?
+23,Ecommerce,Question 10,Find The Email of the person with the following IP Address: 132.207.160.22
+24,Ecommerce,Question 11,How many People have Mastercard as their Credit Card Provider and made a purchase above 50?
+25,Ecommerce,Question 12,Find the email of the person with the following Credit Card Number: 4664825258997302
+26,Ecommerce,Question 13,How many people purchase during the AM and how many people purchase during PM?
+27,Ecommerce,Question 14,How many people have a credit card that expires in 2020?
+28,Ecommerce,Question 15,"What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...)"
+29,Class Subject,Exercise 1,Create the 3 dictionaries with the given attributes (data1-4 from images).
+30,Class Subject,Exercise 2,Create the 3 DataFrames from the dictionaries.
+31,Class Subject,Exercise 3,Concat data1 and data2 Dataframes placing the data2 under data1.
+32,Class Subject,Exercise 4,Concat data1 and data2 Dataframes placing the data2 on the right side of data1.
+33,Class Subject,Exercise 5,Merge the result in Exercise 3 with data4 and display the result.
+34,Class Subject,Exercise 6,How many points does Johnny Cole get in the test? Display the information, score and subjects of Johnny Cole.
+35,Class Subject,Exercise 7,Which subject does Nara Kun take the test on? Display the information, score and subjects of Nara Kun.
+36,Class Subject,Exercise 8,Which subject does Mony Sopheak and James Collar take the test on? Display the information, score and subjects of the two students.
+37,Food,Exercise 1,Display the first 5 orders of the dataset.
+38,Food,Exercise 2,What is the number of rows in the dataset?
+39,Food,Exercise 3,What is the number of columns in the dataset?
+40,Food,Exercise 4,Display the name of each column.
+41,Food,Exercise 5a,Display the "food" which has the highest number of orders?
+42,Food,Exercise 5b,How many items were ordered for the most-ordered item?
+43,Food,Exercise 6,Display the "description" which has the highest number of orders?
+44,Food,Exercise 7,How many foods ordered in total?
+45,Food,Exercise 8,Calculate the total income for the period in the dataset?
+46,Food,Exercise 9,Find the total number of orders.
+47,Food,Exercise 10,Find the average income for each order?
+48,Food,Exercise 11,How many different foods are ordered?
